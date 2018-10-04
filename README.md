@@ -24,6 +24,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 * [thank-you-github/thank-you-github](https://github.com/thank-you-github/thank-you-github)
 * [Hacktoberfest-2018/html-page/create-your-first-PR](https://github.com/abhilashk433/Hacktoberfest-2018)
 * [Resources-HacktoberFest2018](https://github.com/fs0sp/Resources-HacktoberFest2018)
+* [Simple Programs in Python](https://github.com/accakks/Simple-Programs-in-Python)
  
 ## Bonus
 - Any contributor who opens a pull request in any Microsoft repo between October 1 and October 31* will receive a special edition T-shirt from Microsoft. [Know more](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)! [Updates](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/) 
