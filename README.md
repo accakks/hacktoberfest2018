@@ -72,6 +72,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Sparsh Singhal | III | CSE | |
 | Siffrein sigy | II | IT | |
 | Akshay Sharma | III | CSE | |
+| Rohit Pandey | II | CSE | |
 | Suraj Kumar | III | CSE | [@surajkumarcse](https://hacktoberfest.digitalocean.com/stats/surajkumarcse) |
 | Namandeep Singh | III | CSE | |
 | Harshit Bansal | II | CSE | |
