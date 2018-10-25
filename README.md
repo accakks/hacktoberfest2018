@@ -40,6 +40,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Name | Year | Branch | Stats |
 | --- | --- | --- | --- |
 | Dhruv Jain | IV | CSE | [@maddhruv](https://hacktoberfest.digitalocean.com/stats/maddhruv) |
+| [Jashan Bansal](https://github.com/jashanbansal0708) | III | CSE | [@jashanbansal](https://hacktoberfest.digitalocean.com/stats/JashanBansal0708) |
 | [Abhilash Tiwari](https://github.com/abhilashk433/) | III | CSE | |
 | [Aakanksha Jain](https://github.com/accakks/) | III | CSE | [@accakks](https://hacktoberfest.digitalocean.com/stats/accakks) |
 | Amrit Srivastava | III | CSE | |
